@@ -1,0 +1,36 @@
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Build
+build/
+DerivedData/
+*.swiftpm/xcode/xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build
+
+# SPM
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode specific
+*.playground
+xcuserdata/
+
+# Assignment brief (not ours to publish)
+native-mobile-engineer-test-2.pdf

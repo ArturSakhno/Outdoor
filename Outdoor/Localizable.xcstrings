@@ -1,0 +1,174 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ cm" : {
+
+    },
+    "%@ h" : {
+
+    },
+    "%@ km/h" : {
+
+    },
+    "%@ mm" : {
+
+    },
+    "%@° to %@°" : {
+
+    },
+    "Best: %@" : {
+
+    },
+    "Check your internet connection and try again." : {
+
+    },
+    "City or town" : {
+
+    },
+    "Done" : {
+
+    },
+    "Fair" : {
+
+    },
+    "Feels like %@°, cold" : {
+
+    },
+    "Feels like %@°, hot" : {
+
+    },
+    "Feels like, max" : {
+
+    },
+    "Find a place" : {
+
+    },
+    "Forecast" : {
+
+    },
+    "Forecast for %@ m" : {
+
+    },
+    "Fresh snow" : {
+
+    },
+    "Good" : {
+
+    },
+    "Great" : {
+
+    },
+    "Gusts" : {
+
+    },
+    "Gusts %@ km/h" : {
+
+    },
+    "Indoor sightseeing" : {
+
+    },
+    "Nice day to be outside" : {
+
+    },
+    "No connection" : {
+
+    },
+    "No data" : {
+
+    },
+    "No good days this week" : {
+
+    },
+    "No snow at %@ m" : {
+
+    },
+    "Outdoor" : {
+      "shouldTranslate" : false
+    },
+    "Outdoor sightseeing" : {
+
+    },
+    "Poor" : {
+
+    },
+    "Rain" : {
+
+    },
+    "Rain %@ mm over %@ h" : {
+
+    },
+    "Rain chance" : {
+
+    },
+    "Rain chance %@%%" : {
+
+    },
+    "Rain hours" : {
+
+    },
+    "Retry" : {
+
+    },
+    "See how the next 7 days look for skiing, surfing and sightseeing." : {
+
+    },
+    "Severe weather: travel with care" : {
+
+    },
+    "Skiing" : {
+
+    },
+    "Snow on the ground" : {
+
+    },
+    "Some forecast values are missing for this day." : {
+
+    },
+    "Something went wrong" : {
+
+    },
+    "Sun %@ of %@ h" : {
+
+    },
+    "Sunshine" : {
+
+    },
+    "Surfing" : {
+
+    },
+    "Temperature" : {
+
+    },
+    "The weather service didn't respond. Try again in a moment." : {
+
+    },
+    "Thin snow, %@ cm" : {
+
+    },
+    "Thunderstorms" : {
+
+    },
+    "Today" : {
+
+    },
+    "Very cold, %@°" : {
+
+    },
+    "Warm, %@°: soft snow" : {
+
+    },
+    "Weather data by Open-Meteo.com" : {
+
+    },
+    "Weather only. Waves are not rated." : {
+
+    },
+    "Wind" : {
+
+    },
+    "Wind %@ km/h" : {
+
+    }
+  },
+  "version" : "1.0"
+}
