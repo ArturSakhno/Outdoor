@@ -27,12 +27,6 @@ storms), and the capping factors become the reasons. Indoor is outdoor reversed.
 | Place | <img src="docs/screenshots/place-light.png" width="250"> | <img src="docs/screenshots/place-dark.png" width="250"> |
 | Day detail | <img src="docs/screenshots/day-detail-light.png" width="250"> | <img src="docs/screenshots/day-detail-dark.png" width="250"> |
 
-## Demo
-
-Search for Zermatt, open it, and see why Sunday is only Fair for skiing.
-
-<a href="docs/demo.mp4"><img src="docs/demo-poster.jpg" width="250" alt="Demo video: tap to play"></a>
-
 ## Running
 
 Requires Xcode 26 or later. Open `Outdoor.xcodeproj`, pick the `Outdoor` scheme and an iPhone simulator,
